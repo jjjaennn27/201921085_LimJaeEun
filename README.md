@@ -15,7 +15,8 @@ Week 2 Day 2 #1 Practice committing
 
 Week 3 Day 1 #1
 ![image](https://user-images.githubusercontent.com/79950380/111408328-7a8da480-8718-11eb-9d16-a86526abc338.png)
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/79950380/111497997-ead20f80-8784-11eb-82b3-dd2b590aef66.png)
+
 
 
 Week 3 Day 1 #2 LifeCycle 확인 동영상 제작
